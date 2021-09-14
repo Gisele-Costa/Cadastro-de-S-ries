@@ -1,0 +1,16 @@
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/gisele/Desktop/Gisele/DIGITAL INOVATION ONE/Decola Tech/APP series/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
